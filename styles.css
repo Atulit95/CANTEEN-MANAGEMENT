@@ -8,7 +8,7 @@
 body{
   margin: 0;
   background-color:#222222 ;
-  background: url(images/home-bg.jpg);
+  background: url(./images/home-bg.jpg);
 }
 .top-container{
   font-family: Georgia, 'Times New Roman', Times, serif;
