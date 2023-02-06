@@ -10,9 +10,12 @@ body{
   background-color:#222222 ;
   background: url(./images/home-bg.jpg);
 }
+.top{
+  background-color: black;
+}
 .top-container{
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: black;
+  color: bisque;
 }
 .inner-search img{
   width: 40px;
