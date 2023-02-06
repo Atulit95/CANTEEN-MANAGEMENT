@@ -13,6 +13,7 @@ body{
 .image{
   height: 720px;
   width: 1427px;
+  opacity: 0.5;
 }
 .top{
   background-color: black;
