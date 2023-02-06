@@ -12,6 +12,7 @@ body{
 }
 .top{
   background-color: black;
+  height: 45px;
 }
 .top-container{
   font-family: Georgia, 'Times New Roman', Times, serif;
