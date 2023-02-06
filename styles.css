@@ -10,6 +10,10 @@ body{
   background-color:#222222 ;
   background: url(./images/home-bg.jpg);
 }
+.image{
+  height: 720px;
+  width: 1280px;
+}
 .top{
   background-color: black;
   height: 40px;
